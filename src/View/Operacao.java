@@ -2,7 +2,7 @@ package View;
 
 public class Operacao {
 	
-	//Classe ainda não implementada no sistema
+	
 	
 	
 	private Double soma;

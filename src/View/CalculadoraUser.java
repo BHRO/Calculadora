@@ -2,13 +2,6 @@ package View;
 
 
 
-/* ANOTAÇÕES PESSOAIS
-
- * Estou com dificuldades para implementar a classe de operações
- * Estou com dificuldades em fazer com que o valor 1 e 2 possam receber dezena, centena e milhar
- * Estou com dificuldades em implementar a virgula, parenteses e porcentagem
-  
- */
 
 
 import java.awt.EventQueue;
